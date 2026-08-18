@@ -22,24 +22,25 @@ FAISS,
 Google Gemini,
 
 🔄 How It Works: 
-PDF -->
+- PDF 
  
-Text Extraction -->
+- Text Extraction
  
-Text Chunks -->
+- Text Chunks 
  
-Embeddings -->
+- Embeddings
   
-FAISS -->
+- FAISS 
  
-Relevant Information -->
+- Relevant Information
  
-Google Gemini -->
+- Google Gemini 
  
-Answer -->
+- Answer 
 
 🚀 Run the Project : 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 Add your Gemini API key to .env: GOOGLE_API_KEY=your_api_key
