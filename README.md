@@ -4,7 +4,7 @@ A simple AI-powered chatbot that allows users to upload a PDF and ask questions 
 
 The project uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from the document and generate answers using Google Gemini.
 
-✨ Features
+✨ Features : 
 📄 PDF upload
 🧠 Text embeddings
 🔍 Semantic document search
@@ -13,7 +13,7 @@ The project uses Retrieval-Augmented Generation (RAG) to retrieve relevant infor
 💬 Interactive Streamlit chatbot
 🎨 Custom UI
 
-🛠️ Technologies
+🛠️ Technologies : 
 Python
 Streamlit
 LangChain
@@ -21,7 +21,7 @@ Hugging Face
 FAISS
 Google Gemini
 
-🔄 How It Works
+🔄 How It Works: 
 PDF
  ↓
 Text Extraction
@@ -38,14 +38,14 @@ Google Gemini
  ↓
 Answer
 
-🚀 Run the Project
+🚀 Run the Project : 
 pip install -r requirements.txt
 streamlit run app.py
 
 Add your Gemini API key to .env:
 GOOGLE_API_KEY=your_api_key
 
-🎯 Use Cases
+🎯 Use Cases : 
 Resume analysis
 Research papers
 Study documents
