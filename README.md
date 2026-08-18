@@ -11,7 +11,7 @@ The project uses Retrieval-Augmented Generation (RAG) to retrieve relevant infor
 📦 FAISS vector database -->
 🤖 Google Gemini -->
 💬 Interactive Streamlit chatbot -->
-🎨 Custom UI -->
+🎨 Custom UI
 
 🛠️ Technologies : 
 Python , 
